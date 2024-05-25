@@ -11,7 +11,7 @@ Bangla LLaMA is a specialized model for context-based question answering and Ben
 
 ### 4-bit Quantization:
 - [Bangla LLAMA 4bit](https://huggingface.co/asif00/bangla-llama-4bit)
-- [Bangla LLAMA GGUF 4bit](https://huggingface.co/asif00/bangla-llama-gguf-4bit)
+- [Bangla LLAMA GGUF 4bit](https://huggingface.co/asif00/bangla-llama-gguf_q4_k_m)
 
 ### 16-bit Quantization:
 - [Bangla LLAMA 16bit](https://huggingface.co/asif00/bangla-llama-16bit)
