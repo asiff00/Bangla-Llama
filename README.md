@@ -1,5 +1,5 @@
 
-# This repository is a collection of fine-tuned Llama 8B models for context based questions answering. 
+# This is a collection of Llama 8B models I fine-tuned for context based questions answering. 
 
 Bangla LLaMA is a specialized model for context-based question answering and Bengali retrieval augment generation. It is derived from LLaMA 3 8B and trained on the iamshnoo/alpaca-cleaned-bengali dataset. This model is designed to provide accurate responses in Bengali with relevant contextual information. It is integrated with the transformers library, making it easy to use for context-based question answering and Bengali retrieval augment generation in projects.
 
