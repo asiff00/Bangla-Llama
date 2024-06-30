@@ -37,7 +37,7 @@ You can use the model with a pipeline for a high-level helper or load the model 
 ```python
 # Use a pipeline as a high-level helper
 from transformers import pipeline
-pipe = pipeline("question-answering", model="asif00/bangla-llama")
+pipe = pipeline("text-generation", model="asif00/bangla-llama") 
 ```
 
 ```python
